@@ -4,6 +4,6 @@
   xsi:schemaLocation="http://www.caelum.com.br livro.xsd">
 
   <id>1</id>
-  <nomeAutor>leonardo cordeiro</nomeAutor>
+  <nomeAutor>leonardo</nomeAutor>
   <valor>20.0</valor>
 </livro>
