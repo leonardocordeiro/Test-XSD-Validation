@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<livro xmlns="http://www.caelum.com.br"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.caelum.com.br livro.xsd">
-
-  <id>1</id>
-  <nomeAutor>leonardo</nomeAutor>
-  <valor>20.0</valor>
-</livro>
